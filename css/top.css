@@ -2,7 +2,7 @@
     color: #FFD15C  !important;
 }
 .social-icons{
-  padding-left: 10px;
+  /*padding-left: 10px;*/
 }
 .hero-03 .personal-image img {
   z-index: 10;
@@ -22,7 +22,10 @@
 .hero-03 .circle {
   width: 75px;
   height: 75px;
-  background: #1ab394;
+  background-color: #ffffff;
+  background-image:url("C:/Users/alica/Desktop/TARCAN/images/book1.png");
+  background-size: cover;
+  /*background: #1ab394;*/
   border-radius: 50%;
   opacity: 0.9;
   position: absolute;
@@ -45,7 +48,9 @@
 .hero-03 .circle-2 {
   width:75px;
   height: 75px;
-  background: #fbdd62;
+  background-color: #fbdd62;
+  background-image:url("C:/Users/alica/Desktop/TARCAN/images/book.png");
+  background-size: cover;
   border-radius: 50%;
   opacity: 0.9;
   position: absolute;
@@ -71,11 +76,13 @@
 .hero-03 .floating {
   width: 60px;
   height: 60px;
-  background: #ff4274;
+  background-color: #ff4274;
+  background-image:url("C:/Users/alica/Desktop/TARCAN/images/book2.png");
+  background-size: cover;
   border-radius: 50%;
   opacity: 0.8;
   position: absolute;
-  top: 50px;
+  top: 100px;
   left: 40px;
   z-index: 1;
   animation: floating 5s linear infinite;
