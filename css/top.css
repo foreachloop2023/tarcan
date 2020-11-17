@@ -23,7 +23,7 @@
   width: 75px;
   height: 75px;
   background-color: #fbdd62;
-  background-image:url("C:/Users/alica/Desktop/TARCAN/images/book4.jpg");
+  background-image:url("images/book4.jpg");
   background-size: cover;
   /*background: #1ab394;*/
   border-radius: 50%;
@@ -44,7 +44,7 @@
   width: 75px;
   height: 75px;
   background-color: #ffffff;
-  background-image:url("C:/Users/alica/Desktop/TARCAN/images/book1.png");
+  background-image:url("images/book1.png");
   background-size: cover;
   /*background: #1ab394;*/
   border-radius: 50%;
@@ -70,7 +70,7 @@
   width:75px;
   height: 75px;
   background-color: #fbdd62;
-  background-image:url("C:/Users/alica/Desktop/TARCAN/images/book.png");
+  background-image:url("images/book.png");
   background-size: cover;
   border-radius: 50%;
   opacity: 0.9;
@@ -100,7 +100,7 @@
   width: 60px;
   height: 60px;
   background-color: #ff4274;
-  background-image:url("C:/Users/alica/Desktop/TARCAN/images/book2.png");
+  background-image:url("images/book2.png");
   background-size: cover;
   border-radius: 50%;
   opacity: 0.8;
